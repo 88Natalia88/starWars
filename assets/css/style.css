@@ -20,3 +20,35 @@ body{
         transform: scale(1.5);
     }
 }
+.choose{
+    text-align: center;
+    padding-top: 150px;
+}
+.choose input, .choose select{
+    background: transparent;
+    color: lightblue;
+    border: 1px solid lightblue;
+}
+.choose input[type="number"]{
+    width: 200px;
+    height: 40px;
+}
+.choose input[type="button"], .choose select{
+    width: 200px;
+    height: 44px;
+}
+.title{
+    color: lightblue;
+    font-style: italic;
+    padding-bottom: 30px;
+}
+.title-question{
+    color: lightblue;
+    padding-bottom: 20px;
+}
+#btn{
+    cursor: pointer;
+}
+.text{
+    color: lightblue;
+}
