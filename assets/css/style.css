@@ -51,4 +51,8 @@ body{
 }
 .text{
     color: lightblue;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 1.2em;
+    letter-spacing: 1.6px;
 }
