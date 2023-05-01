@@ -49,11 +49,11 @@ function chooseInfo(){
         Edited: ${json.edited} <br> Lenght: ${json.lenght} <br> Manufacturer: ${json.manufacturer} <br>
         Max_atmosphering_speed: ${json.max_atmosphering_speed} <br> 
         Model: ${json.model} <br> Passengers: ${json.passengers} <br> Vehicle_class: ${json.vehicle_class}`;
-    } else{
+    } else {
         text.innerHTML = `Выберите другую информацию, в числовом диапазоне от 1 до 10. Спасибо!`;
     }
     document.querySelector('.loader').style.display = "none";
-        //console.log(json)
+        console.log(json);
     })
     .catch(error => text.innerHTML = `Произошла ошибка ${error.message}`)
 }
