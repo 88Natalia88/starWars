@@ -53,7 +53,7 @@ function chooseInfo() {
                 text.innerHTML = `Выберите другую информацию, в числовом диапазоне от 1 до 10. Спасибо!`;
             }
             document.querySelector('.loader').style.display = "none";
-            console.log(json);
+            //console.log(json);
         })
         .catch(error => text.innerHTML = `Произошла ошибка ${error.message}`)
 }
