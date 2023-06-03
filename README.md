@@ -1,1 +1,1 @@
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/88Natalia88/starWars/blob/main/starWars%20screen.png)
