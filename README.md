@@ -1,10 +1,10 @@
 # star Wars
 
-Сайт для пойска информации о героях
+Site for finding information about heroes
 ​
 ## Description
 ​
-Данный сайт создан, для предоставления информации о героях star Wars
+This site was created to provide information about the heroes of star Wars
 ​
 ​
 ## Technology stack
@@ -15,7 +15,7 @@
 ​
 ![Image alt](https://github.com/88Natalia88/starWars/blob/main/starWars%20screen.png)
 
-[Сlick me](ссылка на сайт на гитхабе)
+[Сlick me](88natalia88.github.io/starWars/)
 
 ​
 ## Author
