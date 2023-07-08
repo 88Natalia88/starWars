@@ -4,7 +4,7 @@ Site for finding information about heroes
 ​
 ## Description
 ​
-This site was created to provide information about the heroes of star Wars
+This site was created to provide information about the heroes of Star Wars. The data comes from the connected API.
 ​
 ​
 ## Technology stack
