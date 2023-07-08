@@ -15,8 +15,6 @@ This site was created to provide information about the heroes of Star Wars. The 
 ​
 ![Image alt](https://github.com/88Natalia88/starWars/blob/main/starWars%20screen.png)
 
-[Сlick me](88natalia88.github.io/starWars/)
-
 ​
 ## Author
 ​
