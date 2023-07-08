@@ -1,7 +1,5 @@
 # star Wars
-![Image alt](https://github.com/88Natalia88/starWars/blob/main/starWars%20screen.png)
 
-​
 Сайт для пойска информации о героях
 ​
 ## Описание
@@ -10,20 +8,15 @@
 ​
 ​
 ## Technology stack
-<p>
-<img src="assets/img/HTML.png" alt="HTML" width="100rem"/>
-<img src="assets/img/CSS.png" alt="CSS" width="100rem"/>
-<img src="assets/img/JS.png" alt="JS" width="100rem"/>
-<img src="assets/img/PHP.png" alt="PHP" width="100rem"/>
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ​
 ​
 ## Result (скриншот результата)
 ​
+![Image alt](https://github.com/88Natalia88/starWars/blob/main/starWars%20screen.png)
+
 [Сlick me](ссылка на сайт на гитхабе)
-<p><img src="assets/img/forReadme1.jpg" alt="result"/>
-</p>
-​
+
 ​
 ## Authors
 ​
